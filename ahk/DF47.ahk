@@ -32,21 +32,3 @@ Z轴快速移动
         Sleep SleepTime
     }
 }
-
-/*
-交易宏
-*/
-+Home:: {
-    loop 10 {
-        Send "{Enter}"
-        Sleep SleepTime
-        Send "{up}"
-    }
-}
-+End:: {
-    loop 10 {
-        Send "{Enter}"
-        Sleep SleepTime
-        Send "{down}"
-    }
-}
