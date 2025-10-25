@@ -1,4 +1,4 @@
-changed to vanilla.
+changed
 
 [BLACK_R:0]
 [BLACK_G:0]
